@@ -101,7 +101,7 @@ Contributions are welcome! If you'd like to improve this project:
 5. Open a Pull Request.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the `LICENSE` file for details!
 
 ## Acknowledgments
 - Thanks to the developers of [Pygame](https://www.pygame.org/) for providing a fantastic library for game development.
