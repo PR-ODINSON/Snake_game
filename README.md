@@ -62,7 +62,7 @@ The **Enhanced Snake Game** is a modern twist on the classic snake game, develop
 - The snake starts with a length of 1 and grows longer as it eats food.
 - The game speed increases after every 50 points scored.
 - If walls are enabled, colliding with the screen edges results in a game over.
-- If walls are disabled, the snake wraps around the screen edges.
+- If walls are disabled, the snake wraps around the screen edges!
 
 ## File Structure
 ```
